@@ -1,4 +1,4 @@
-# Turning-the-Tide-The-Impact-of-Plastic-Debris-on-Ocean-Health
+# Toxic-Tides-The-Impact-of-Plastic-Debris-on-Ocean-Health
 
 ## 🌊 Summary
 
