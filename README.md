@@ -12,4 +12,4 @@ This project focuses on deconstructing and reconstructing Tableau visualizations
 
 ## 🎯 Business Problem & Goal
 
-- The core objective is to analyze how plastic debris continues to threaten ocean health and highlight why this issue persists despite growing awareness. Through improved visualization clarity, stakeholders can better understand data-driven insights, identify key regions of concern, and drive informed environmental strategies aimed at reducing marine pollution.
+The core objective is to analyze how plastic debris continues to threaten ocean health and highlight why this issue persists despite growing awareness. Through improved visualization clarity, stakeholders can better understand data-driven insights, identify key regions of concern, and drive informed environmental strategies aimed at reducing marine pollution.
